@@ -13,7 +13,7 @@ This project is a simple banking system that includes functionalities for creati
 
 ## Usage
 
-1. Run the customer_banking.py script
+1. Run the customer_banking.py script.
 2. Follow the prompts to enter the savings and CD account balances, interest rates, and the length of time (in months) to determine the interest earned.
 3. The script will display the interest earned and the updated account balances for both the savings and CD accounts.
 
