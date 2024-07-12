@@ -23,13 +23,13 @@ Enter the savings account balance: 1000\
 Enter the savings account interest rate (APR): 5\
 Enter the number of months for the savings account: 12\
 Interest earned on savings account: 50.00\
-Updated savings account balance: 1050.00\
+Updated savings account balance: 1050.00
 
 Enter the CD account balance: 2000\
 Enter the CD account interest rate (APR): 6\
 Enter the number of months for the CD account: 12\
 Interest earned on CD account: 120.00\
-Updated CD account balance: 2120.00\
+Updated CD account balance: 2120.00
 
 ## Notes:
 
